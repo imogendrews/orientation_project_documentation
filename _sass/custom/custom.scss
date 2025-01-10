@@ -1,0 +1,15 @@
+// _sass/custom/custom.scss
+p {
+    color: $blue-000;
+  }
+
+  @media screen {
+    .side-bar {
+      width: 250px; // Set the desired width
+    }
+    .site-title {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+ 
+  }

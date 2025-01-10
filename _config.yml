@@ -1,7 +1,7 @@
-title: Just the Docs Template
+title: Documentation
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-color_scheme: dark
+color_scheme: custom
 
 url: https://imogendrews.github.io/orientation_project_documentation/
 
