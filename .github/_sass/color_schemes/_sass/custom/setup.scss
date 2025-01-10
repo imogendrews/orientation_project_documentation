@@ -3,3 +3,8 @@ $blue-100: pink !default;
 $blue-200: pink !default;
 $blue-300: pink !default;
 
+// _sass/custom/custom.scss
+p {
+    color: $blue-100;  // Use your preferred shade
+  }
+
