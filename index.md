@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-<p class="$blue-000">This is purple-000 text.</p>
+<p class="text-blue-000">This is purple-000 text.</p>
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
